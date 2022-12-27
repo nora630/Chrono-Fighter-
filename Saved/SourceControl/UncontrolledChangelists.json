@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/noradesu/UnrealEngine/RobotGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/noradesu/UnrealEngine/RobotGame/Content/Map/MyMap.umap",
+				"D:/noradesu/UnrealEngine/RobotGame/Content/Blueprints/MyPlayerController.uasset",
+				"D:/noradesu/UnrealEngine/RobotGame/Content/Blueprints/MyGame.uasset",
+				"D:/noradesu/UnrealEngine/RobotGame/Content/Input/IA_Pause.uasset",
+				"D:/noradesu/UnrealEngine/RobotGame/Content/Input/IA_Interact.uasset",
+				"D:/noradesu/UnrealEngine/RobotGame/Content/Input/IA_Jump.uasset",
+				"D:/noradesu/UnrealEngine/RobotGame/Content/Input/IA_Look.uasset",
+				"D:/noradesu/UnrealEngine/RobotGame/Content/Input/IA_Move.uasset",
+				"D:/noradesu/UnrealEngine/RobotGame/Content/Input/IA_UnpossesAndSpawnNew.uasset",
+				"D:/noradesu/UnrealEngine/RobotGame/Content/Input/IMC_ThirdPersonControls.uasset",
+				"D:/noradesu/UnrealEngine/RobotGame/Content/Blueprints/BP_Bot.uasset",
+				"D:/noradesu/UnrealEngine/RobotGame/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.uasset",
+				"D:/noradesu/UnrealEngine/RobotGame/Content/Blueprints/BP_Chandalier.uasset"
+			]
+		}
+	]
+}
