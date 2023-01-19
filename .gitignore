@@ -6,3 +6,8 @@
 /Content/LevelPrototyping
 /Content/__ExternalActors__
 /Content/__ExternalObjects__
+.vs
+Binaries
+DerivedDataCache
+Intermediate
+Plugins
