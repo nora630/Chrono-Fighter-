@@ -7,7 +7,10 @@
 		{
 			"Name": "RobotGame",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	],
 	"Plugins": [
@@ -24,20 +27,15 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/217fdf581b784571af03d3fb6580368f"
 		},
 		{
-			"Name": "PlayFab",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/217fdf581b784571af03d3fb6580368f"
-		},
-		{
-			"Name": "SteamSockets",
-			"Enabled": true
-		},
-		{
 			"Name": "SteamController",
 			"Enabled": true
 		},
 		{
 			"Name": "WebSocketNetworking",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServicesNull",
 			"Enabled": true
 		}
 	]
