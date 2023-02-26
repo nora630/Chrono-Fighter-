@@ -1,4 +1,4 @@
-# Chorono Fighter
+# Chrono Fighter
 
 * ゲームファイル：https://drive.google.com/file/d/1lQrwCglYhRFSuEtetFDJMw8Es-HNRdDd/view?usp=share_link
 * ゲーム内容
