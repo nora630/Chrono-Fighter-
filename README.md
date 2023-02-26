@@ -7,7 +7,7 @@
 * 遊び方
 1. 上記ファイルをダウンロード・解凍する。
 2. Steamにログインした状態で、上記ファイル内のRobotGame.exeを起動。
-3. StartGameボタンを押下し、ホストがCreateSessionボタンを押下する。参加者はFindSessionボタンを押下し、ホストにJoinする。
+3. StartGameボタンを押下し、ホストがCreateSessionボタンを押下する。参加者はFindSessionボタンを押下する。少し時間がたった後にホスト名が表示されるので、Joinボタンを押下する。
 4. ゲーム開始！
 
 * 操作方法
