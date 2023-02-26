@@ -1,6 +1,5 @@
-# UE5MyGame
+# Chorono Fighter
 
-* ゲーム名：Chrono Fighter
 * ゲームファイル：https://drive.google.com/file/d/1lQrwCglYhRFSuEtetFDJMw8Es-HNRdDd/view?usp=share_link
 * ゲーム内容
   * 3〜4人で行う対戦ゲームで、敵を3回倒したプレイヤーが勝利となります。ビームを当てた後に特定の場所にいる悪魔像に話しかけ、一定時間経過すると敵を倒すことができます。また、バリアを発生することで少しの間ビームを防ぐことができます。ビームやバリア、悪魔像にはクールタイムが設定されており、連続して実行することは出来なくなっています。
