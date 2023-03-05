@@ -1,6 +1,6 @@
 # Chrono Fighter
 
-* ゲームファイル：https://drive.google.com/file/d/1GOYmwEUBz1Y1jncXc70AlvanbQbgYDjY/view?usp=share_link
+* ゲームファイル：https://drive.google.com/file/d/15Qd_1eQlCi1Qkiuk1ci5ICmp1nwgUk-A/view?usp=share_link
 * ゲーム内容
   * 3〜4人で行う対戦ゲーム
   * 敵を3回倒したプレイヤーが勝利
